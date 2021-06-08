@@ -1,5 +1,14 @@
-# forecasting-demand-for-a-coffee-startup
-Forecasting Business Trends with Real Data with FB Prophet.  By forecasting demand for cakes, the most perishable and space inefficient product of a coffee startup, we can maximize profit by reducing food waste, and simultaneously improve inventory management.
+# Forecasting Demand for a Coffee Start-up with Real Sales Data
+Forecasting Business Trends with Real Data with FB Prophet. By forecasting demand for cakes, the most perishable and space inefficient product of a coffee startup, we can maximize profit by reducing food waste, and simultaneously improve inventory management.
+
+# Video Presentation: 
+https://www.loom.com/share/55765ab7d9bb457eb26714dce95b0183
+
+### Business issues faced
+. Working and coordinating across time zones
+. Gathering very messy data from various sources (the company had no internal data infrastructure)
+. Data was so messy to the point where 
+
 
 # Table of Contents
 
